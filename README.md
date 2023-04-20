@@ -1,4 +1,10 @@
-### Hi there 👋
+# Analog Hors
+
+code horse.
+
+I work primarily in Rust, but have also done work in Typescript, Javascript, C#, Java, and Python. Currently primarily interested in Chess related code. Maintainer of cozy-chess, a fast Chess and Chess960 move generation library written in Rust suitable for Chess engines.
+
+Check out my [blog](https://analog-hors.github.io/site/writing/)!
 
 <!--
 **analog-hors/analog-hors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
