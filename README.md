@@ -2,7 +2,7 @@
 
 code horse.
 
-I work primarily in Rust, but have also done work in Typescript, Javascript, C#, Java, and Python. Currently primarily interested in Chess related code. Maintainer of cozy-chess, a fast Chess and Chess960 move generation library written in Rust suitable for Chess engines.
+I work primarily in Rust, but have also done work in Typescript, Javascript, C#, Java, and Python. Currently primarily interested in Chess related code. Maintainer of [`cozy-chess`](https://github.com/analog-hors/cozy-chess), a fast Chess and Chess960 move generation library written in Rust suitable for Chess engines.
 
 Check out my [blog](https://analog-hors.github.io/site/writing/)!
 
